@@ -23,7 +23,11 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd psh-game-back
+```
+
+```bash
+  cd psh-game-front
 ```
 
 Install dependencies
